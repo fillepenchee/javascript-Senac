@@ -11,10 +11,10 @@ valor do aumento;
 novo salário, após o aumento
 */
 
-let salario = 30000
-let reajuste = 0
-let percent = 0
-let salarnovo = 0
+let salario = 30000;
+let reajuste = 0;
+let percent = 0;
+let salarnovo = 0;
 
 if(salario < 1800) {
     percent = "20 %";
